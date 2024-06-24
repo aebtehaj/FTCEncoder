@@ -3,7 +3,7 @@
 
 # **FTC-Encoder**
 # An Autoencoder Architecture for L-band Passive Microwave Retrieval of Freeze-Thaw Cycle
-By Divya Kumawat and Ardeshir Ebtehaj -- June, 2024
+By Divya Kumawat and Ardeshir Ebtehaj -- June 2024
 
 ## Introduction
 
